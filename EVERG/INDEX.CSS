@@ -1,0 +1,68 @@
+h1{
+    text-align: center;
+    font-family:Forte;
+    font-size: 60px; 
+}
+body{
+    background-image: linear-gradient(rgb(243, 126, 223), WHITE, rgb(0, 132, 255));
+    
+}
+img{
+    width: 100px;
+
+}
+
+.musica{
+    background-color: rgb(233, 99, 182);
+    border: 1px solid rgb(64, 194, 245);
+    padding:-10px;
+    margin:50px;
+}
+article{
+    column-count: 2;
+}
+.libros{
+    background-color: rgb(113, 196, 230);
+    border: 1px solid pink;
+    padding: 10px;
+    margin:50px; 
+}
+.aplicaciones{
+        background-color: rgb(233, 99, 182);
+        border: 1px solid blue;
+        padding: 10px;
+        margin:50px;    
+}
+.tabu{
+    background-color: rgb(113, 196, 230);
+    border: 1px solid blue;
+    padding: 10px;
+    margin:50px;  
+}
+.img1{
+    width: 10px;
+    height: 100px;
+
+}
+.apli{
+    background-image: linear-gradient(rgb(247, 0, 255), rgb(240, 51, 224), rgb(241, 105, 212));
+}
+.l{
+    background-image: linear-gradient(rgb(13, 9, 209), rgb(10, 102, 177), rgb(32, 145, 252));
+}
+
+table{
+    width:100%;
+}
+
+.pelis{
+    background-color: rgb(233, 99, 182);
+        border: 1px solid blue;
+        padding: 10px;
+        margin:50px;
+}
+mark{
+    font-style: oblique;
+    background-color:dodgerblue
+}
+
